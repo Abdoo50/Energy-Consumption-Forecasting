@@ -32,7 +32,7 @@ The ARIMA model provided a strong baseline, while XGBoost added value by improvi
 Future iterations could explore the inclusion of additional variables, such as weather data, and the use of deep learning methods like LSTM neural networks.
 
 ## Contributors
-- [Your Name]
+- [Abdelrahman Ashour](https://www.linkedin.com/in/abdo-ashour-9467b623a/)
 
 ## Acknowledgements
 We thank the PJM Interconnection LLC for providing the dataset used in this project.
